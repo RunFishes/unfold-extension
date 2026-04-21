@@ -11,6 +11,7 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "noEmit": true,
+    "allowImportingTsExtensions": true,
     "baseUrl": "."
   },
   "include": ["src/**/*.ts", "src/**/*.tsx", "vite.config.ts", "vite.content.config.ts", "vite.content-main.config.ts"]
